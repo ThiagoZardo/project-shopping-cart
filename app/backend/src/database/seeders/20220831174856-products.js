@@ -75,7 +75,6 @@ module.exports = {
           price: 1999,
           quantity: 100,
         }, 
-        // Celulares
         {
           product_name: 'Celular Xiaomi Redmi 9A',
           description: 'Versão Global 32gb / 2gb Ram/Tela 6.53"',
@@ -156,7 +155,6 @@ module.exports = {
           price: 1329,
           quantity: 100,
         },
-        // Smartwatches
         {
           product_name: 'Smartband - Xiaomi Mi Band 7',
           description: 'Versão Global - Lançamento - Preto',
